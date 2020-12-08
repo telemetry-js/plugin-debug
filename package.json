@@ -1,0 +1,32 @@
+{
+  "name": "@telemetry-js/plugin-debug",
+  "version": "0.0.4",
+  "description": "Log metrics and task lifecycle events with debug(), as a processor or publisher",
+  "license": "MIT",
+  "author": "Vincent Weevers",
+  "scripts": {
+    "test": "standard && hallmark && node test"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "debug": "^4.1.0"
+  },
+  "devDependencies": {
+    "hallmark": "^3.1.0",
+    "standard": "^14.3.4",
+    "tape": "^4.9.1"
+  },
+  "repository": "telemetry-js/plugin-debug",
+  "bugs": "https://github.com/telemetry-js/plugin-debug/issues",
+  "homepage": "https://github.com/telemetry-js/plugin-debug",
+  "keywords": [
+    "metrics",
+    "measurements",
+    "telemetry"
+  ],
+  "engines": {
+    "node": ">=6"
+  }
+}
