@@ -3,7 +3,7 @@
 > **Log metrics and task lifecycle events with [`debug`](https://github.com/visionmedia/debug), as a processor or publisher.**  
 > A [`telemetry`](https://github.com/telemetry-js/telemetry) plugin.
 
-[![npm status](http://img.shields.io/npm/v/telemetry-js/plugin-debug.svg)](https://www.npmjs.org/package/@telemetry-js/plugin-debug)
+[![npm status](http://img.shields.io/npm/v/@telemetry-js/plugin-debug.svg)](https://www.npmjs.org/package/@telemetry-js/plugin-debug)
 [![node](https://img.shields.io/node/v/@telemetry-js/plugin-debug.svg)](https://www.npmjs.org/package/@telemetry-js/plugin-debug)
 [![Test](https://github.com/telemetry-js/plugin-debug/workflows/Test/badge.svg?branch=main)](https://github.com/telemetry-js/plugin-debug/actions)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
@@ -68,7 +68,7 @@ npm install @telemetry-js/plugin-debug
 
 ## Acknowledgements
 
-This project is kindly sponsored by [Reason Cybersecurity Inc](https://reasonsecurity.com).
+This project is kindly sponsored by [Reason Cybersecurity Ltd](https://reasonsecurity.com).
 
 [![reason logo](https://cdn.reasonsecurity.com/github-assets/reason_signature_logo.png)](https://reasonsecurity.com)
 
